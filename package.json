@@ -1,0 +1,25 @@
+{
+  "name": "credengine",
+  "version": "1.0.0",
+  "description": "A credit engine backend build using Express. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altrgeek/credengine.git"
+  },
+  "author": "altrgeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altrgeek/credengine/issues"
+  },
+  "homepage": "https://github.com/altrgeek/credengine#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20"
+  }
+}
